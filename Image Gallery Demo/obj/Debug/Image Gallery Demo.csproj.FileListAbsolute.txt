@@ -1,0 +1,6 @@
+C:\Users\nitin\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csprojAssemblyReference.cache
+C:\Users\nitin\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image_Gallery_Demo.ImageGallery.resources
+C:\Users\nitin\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image_Gallery_Demo.Properties.Resources.resources
+C:\Users\nitin\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.GenerateResource.cache
+C:\Users\nitin\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.exe.licenses
+C:\Users\nitin\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.CoreCompileInputs.cache
